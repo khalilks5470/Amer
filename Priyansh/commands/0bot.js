@@ -36,7 +36,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
   
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "admin")) {
-     return api.sendMessage("༻𝐎𝐖𝐍𝐄𝐑:- ☞ ༻☞[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟𝙎𝙝𝙖𝙖𝙣 𝙠𝙝𝙖𝙣🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝙎𝙝𝙖𝙖𝙣𝙞. ☜ ༺༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- https://www.facebook.com/profile.php?id=100016828397863☞    his insta id @Shankhank345 ☜ ༺༒ ༒", threadID);
+     return api.sendMessage("༻𝐎𝐖𝐍𝐄𝐑:- ☞ ༻☞[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟𝐇𝐚𝐦𝐳𝐚 𝐀𝐥𝐢🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝗁𝗈𝗇𝖾𝗒. ☜ ༺༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- https://www.facebook.com/profile.php?id=100016828397863☞    his insta id @Shankhank345 ☜ ༺༒ ༒", threadID);
    };
 if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simi")) {
      return api.sendMessage("Sim Sim Na KRr IjjaT Sy MeRa Prefix LaGa 0or Bt kRr ITna Free Nhi kRta Me 😎🤞", threadID);
@@ -71,7 +71,7 @@ if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simi"))
    };
 
 if ((event.body.toLowerCase() == "🥰") || (event.body.toLowerCase() == "🫣")) {
-     return api.sendMessage("𝐈𝐒 𝐍𝐀𝐙𝐀𝐑 𝐒𝐈𝐑𝐀𝐅 𝐌𝐔𝐉𝐇𝐄 𝐍𝐀𝐈𝐑𝐀𝐀 𝐃𝐄𝐊𝐇 𝐒𝐀𝐊 𝐓𝐇𝐈 𝐇𝐀𝐈", threadID);
+     return api.sendMessage("𝐈𝐒 𝐍𝐀𝐙𝐀𝐑 𝐒𝐈𝐑𝐀𝐅 𝐌𝐔𝐉𝐇𝐄 𝐙𝐀𝐍𝐈 𝐃𝐄𝐊𝐇 𝐒𝐀𝐊 𝐓𝐇𝐈 𝐇𝐀𝐈", threadID);
    };
    
    if ((event.body.toLowerCase() == "😃") || (event.body.toLowerCase() == "😃😃")) {
@@ -501,7 +501,7 @@ if ((event.body.toLowerCase() == "🥰") || (event.body.toLowerCase() == "🫣")
     var msg = {
       body: `「 𓆩⃝${name}𓆩๏𓆪 」,  \n
 ❥──────────────❥     ${rand}\n\n┏━━ೋ•  •ೋ━━┓
-     𓆩𝐒𝐇𝐀𝐀𝐍 𝐊𝐇𝐀𝐍𓆩๏𓆪
+     𓆩𝐇𝐀𝐌𝐙𝐀 𝐀𝐋𝐈𓆩๏𓆪
 ┗━━ೋ•  •ೋ━━┛ \n
 ❥──────────────❥Time:\n          ${time}`
         }
