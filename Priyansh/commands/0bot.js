@@ -71,7 +71,7 @@ if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simi"))
    };
 
 if ((event.body.toLowerCase() == "🥰") || (event.body.toLowerCase() == "🫣")) {
-     return api.sendMessage("𝐈𝐒 𝐍𝐀𝐙𝐀𝐑 𝐒𝐈𝐑𝐀𝐅 𝐌𝐔𝐉𝐇𝐄 𝐙𝐀𝐍𝐈 𝐃𝐄𝐊𝐇 𝐒𝐀𝐊 𝐓𝐇𝐈 𝐇𝐀𝐈", threadID);
+     return api.sendMessage("𝐈𝐒 𝐍𝐀𝐙𝐀𝐑 𝐒𝐈𝐑𝐀𝐅 𝐌𝐔𝐉𝐇𝐄 M͜͡U͜͡R͜͡S͜͡H͜͡I͜͡D͜͡ 𝐃𝐄𝐊𝐇 𝐒𝐀𝐊 𝐓𝐇𝐈 𝐇𝐀𝐈", threadID);
    };
    
    if ((event.body.toLowerCase() == "😃") || (event.body.toLowerCase() == "😃😃")) {
